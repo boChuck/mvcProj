@@ -1,0 +1,13 @@
+C:\projects\Personal\CardStock\CardStock\bin\Debug\CardStock.exe.config
+C:\projects\Personal\CardStock\CardStock\bin\Debug\CardStock.exe
+C:\projects\Personal\CardStock\CardStock\bin\Debug\CardStock.pdb
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock.csprojResolveAssemblyReference.cache
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\Views\CardDeckView.baml
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\Views\CardDeckView.g.cs
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\App.g.cs
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock_MarkupCompile.cache
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock.g.resources
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\Jarloo.CardStock.Properties.Resources.resources
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock.csproj.GenerateResource.Cache
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock.exe
+C:\projects\Personal\CardStock\CardStock\obj\x86\Debug\CardStock.pdb
