@@ -1,0 +1,16 @@
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\unitTestProj.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\unitTestProj.pdb
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\MvcApplication1.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Web.Http.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Web.Http.WebHost.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Net.Http.Formatting.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\Newtonsoft.Json.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\MvcApplication1.pdb
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Web.Http.xml
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Web.Http.WebHost.xml
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\System.Net.Http.Formatting.xml
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\Newtonsoft.Json.xml
+C:\projects\Personal\MvcApplication1\unitTestProj\obj\Debug\unitTestProj.csprojResolveAssemblyReference.cache
+C:\projects\Personal\MvcApplication1\unitTestProj\obj\Debug\unitTestProj.dll
+C:\projects\Personal\MvcApplication1\unitTestProj\obj\Debug\unitTestProj.pdb
+C:\projects\Personal\MvcApplication1\unitTestProj\bin\Debug\unitTestProj.dll.config
