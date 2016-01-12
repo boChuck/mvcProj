@@ -19,6 +19,11 @@ namespace MvcApplication1.Models
         public string id { get; set; }
         public string name { get; set; }
         public string cod { get; set; }
+
+        public string WeatherDescripion()
+        {
+            return weather.First().description;
+        }
     }
     public class weather
     {

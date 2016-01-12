@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Web;
 
 namespace MvcApplication1.Models
@@ -9,6 +10,23 @@ namespace MvcApplication1.Models
     {
         public string status { get; set; }
         public results[] results { get; set; }
+
+        public string ClubName()
+        {
+            return results.First().name;
+        }
+        public string Address()
+        {
+            return results.First().formatted_address;
+        }
+        public string lat()
+        {
+            return results.First().geometry.location.lat;
+        }
+        public string lon()
+        {
+            return results.First().geometry.location.lng;
+        }
     }
     public class results
     {
@@ -46,4 +64,5 @@ namespace MvcApplication1.Models
         public string[] html_attributions { get; set; }
         public string width { get; set; }
     }
+
 }
